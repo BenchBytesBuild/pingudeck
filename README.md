@@ -2,7 +2,7 @@
 
 > A kid learning laptop from Sanyo (the Pingu Computer IT-5) rebuilt as an ESP32 cyberdeck.
 
-Part of [benchbytes.build](https://benchbytes.build): built in public, every step filmed.
+Part of [benchbytes.build](https://benchbytes.build): Where craft meets code.
 
 |          |                                                                                                                                                                    |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
