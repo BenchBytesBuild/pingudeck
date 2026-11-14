@@ -1,0 +1,9 @@
+{
+  "title": { "en": "PinguDeck", "ja": "PinguDeck" },
+  "summary": {
+    "en": "Turning a SANYO PINGU Computer IT-5 into an ESP32 cyberdeck, keeping the original shell and hiragana keyboard.",
+    "ja": "SANYO PINGU Computer IT-5 を、元のケースとひらがなキーボードを残したままESP32サイバーデッキに作り変える。"
+  },
+  "next": { "en": "Open the box and test whether it still powers on.", "ja": "箱を開けて、電源が入るか確かめる。" },
+  "progress": 0
+}

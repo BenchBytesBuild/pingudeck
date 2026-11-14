@@ -1,0 +1,11 @@
+.DS_Store
+# PlatformIO / Arduino
+.pio/
+build/
+# KiCad
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.lck
+# Obsidian editor settings (per machine)
+.obsidian/
